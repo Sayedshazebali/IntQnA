@@ -1,0 +1,157 @@
+#Wipro
+
+1. Which plug-ins do you installed in Jenkins?
+
+2. What is pollSCM, Github hook, How can you configure Git and Maven in Jenkins?
+
+3. If you configure SonarQube URL in Jenkins and deploy it to that how can sonar identifies?
+
+4. The code is deployed into Sonar or not, how did you know that?
+
+5. If 10 Jenkins jobs are triggered Automatically by shell script then what is the scenario?
+
+6. What is security groups in AWS?
+
+7. How can you change Port no’s? How many ports no’s you know?
+
+8. How can you identify the code is deployed or not?
+
+9. How does Jenkins know weather the maven is installed or not?
+
+10. Initially, we configured user and password in Jenkins Where it will be stored?
+
+11. Difference b/w Classic ELB and Network ELB?
+
+12. What is the migration process for one server to another server?
+
+13. What is the process to upload Artifacts into Nexus Repository, How does it know?
+
+14. Where you can configure the Git and Maven in Jenkins?
+
+15. Have you done any installations?
+
+16. What is difference b/w SVN & GIT? What are the commands do you used in GIT?
+
+17. What is the difference b/w Rebase and Merge ?
+
+18. Maven parameters, dependencies?
+
+19. Basic job configuration?
+
+20. Advantages of Git?
+
+21. AWS Services, Route53, Cloud watch,EC2 instance steps, IAM users creation, NACL, Snapshot?
+
+#CYTRIX
+
+1. Git merging strategies, Git commands, Git conflicts?
+
+2. Which type of branches you are using?
+
+3. Daily using Linux commands?
+
+4. What is Docker? Difference b/w docker &VM?
+
+5. What is a configuration management tool?
+
+6. What is Ansible?
+
+7. What is Image Size? which one are bigger and smaller images?
+
+8. What is the docker form?
+
+9. In VpC how can you Expose?
+
+10. How can you connect the subnet in VPC?
+
+11. What are t2,c4,m3 in Aws? Here C means what?
+
+12. Have you done any testing? like smoke test?
+
+#WIBMO
+
+1. What is the difference b/w SVN& GIT? Difference b/w Rebase & Merge, Git stash, Git conflicts, tag, staging Area.
+
+2. Svn to Git migration process?
+
+3. Sed command, Find command AWK command in Linux?
+
+4. Jenkins master slave concept?
+
+5. If Jenkins has more jobs how can you troubleshoot?
+
+6. In Jenkins what is build triggers & Pollscm?
+
+7. How do you trigger build jobs?
+
+#CAPGEMINI
+
+1. What is Devops, CI, CD, and Devops Architecture?
+
+2. What is Docker , Difference b/w Docker container and VM, Docker Image, Docker Registry, what is the command to run docker image?
+
+3. Git merge conflicts. Stash, Branching strategy, staging Area.
+
+4. Jenkins job configuration, master-slave concept, Build periodically, poll scm, git hub hook, got plugins.
+
+5. AWK, grep, swape space, find, memory commands in linux
+
+6. IAM users and group creation in AWS?
+
+7. How can you build a docker image from file. Who will write the docker file?
+
+8. What is your workflow?
+
+9. How can you integrate two pipelines in Jenkins, it is for Dev or QA?
+
+10. If the build fails in Jenkins how can you trouble shoot?
+
+11. What are the factors to fail a job in Jenkins?
+
+#INFOSYS
+
+1.what is maven, why we need maven, maven life cycle.
+
+2. If the build fails where will you check?
+
+3. How can you send mail to your team members? Manual or Automatic?
+
+4. Branching strategy, How do you integrate git, maven in Jenkins?
+
+5. What is CI/CD process of your project?
+
+6. In Agile methodology how you can you set up your environment?
+
+7. In Maven where you can mention your properties?
+
+8. How can you explain your project setup to your client?
+
+9. Master slave, build periodically, pollscm.
+
+10. What is difference b/w Ant & Maven?
+
+11. Autoscaling steps, load balancer steps?
+
+12. What is the cloud, what is the importance of the cloud?
+
+13. What is VPC, what is EC2 instance?
+
+14. What metrics you associated to Autoscaling.
+
+15. have you configure Nexus to maven and Jenkins?
+
+16. what is the main purpose of JIRA, what is the use case in Devops.
+
+17. What is Git, Git commands, tag?
+
+18. How can you store Artifacts in Nexus?
+
+19. What is Ansible, why we use? Difference b/w ansible and chef?
+
+20. Tell me some Linux commands daily you used?
+
+21. How can you deploy vcode into various environments?
+
+22. What is the pipeline? What are the use cases in your project for the pipeline?
+
+23.which type if testings you have done for your project?
