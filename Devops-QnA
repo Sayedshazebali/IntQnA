@@ -3,6 +3,10 @@
 1. Which plug-ins do you installed in Jenkins?
 
 2. What is pollSCM, Github hook, How can you configure Git and Maven in Jenkins?
+Ans: a)stands for "Poll Source Code Management." It's a feature in Jenkins that allows you to periodically check your
+version control system (e.g., Git, Subversion) for changes in the source code repository.
+b) GitHub Webhooks allow you to trigger Jenkins builds automatically whenever certain events occur in your GitHub repository,
+such as a new commit, pull request, or push to a specific branch.
 
 3. If you configure SonarQube URL in Jenkins and deploy it to that how can sonar identifies?
 
